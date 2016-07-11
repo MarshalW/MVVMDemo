@@ -7,7 +7,7 @@ MVVM模式在Swift/iOS下的实践。
 git clone:
 
 ```
-
+git clone https://github.com/MarshalW/MVVMDemo.git
 ```
 
 需要安装[Carthage](https://github.com/Carthage/Carthage)，用于构建。
@@ -15,7 +15,6 @@ git clone:
 在项目路径下执行:
 
 ```
-
+carthage update
 ```
 
-###
